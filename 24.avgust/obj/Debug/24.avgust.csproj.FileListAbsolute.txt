@@ -1,0 +1,2 @@
+/Users/xamyak/Desktop/24.avgust/24.avgust/obj/Debug/24.avgust.csproj.AssemblyReference.cache
+/Users/xamyak/Desktop/24.avgust/24.avgust/obj/Debug/24.avgust.csproj.CoreCompileInputs.cache

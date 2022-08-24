@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A4025487-AD88-4839-AF07-B3F3867B619C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="24.avgust/GroupMate.cs">
+    <Files>
+      <File FileName="24.avgust/Program.cs" Line="1" Column="1" />
+      <File FileName="24.avgust/Person.cs" Line="4" Column="32" />
+      <File FileName="24.avgust/Student.cs" Line="7" Column="1" />
+      <File FileName="24.avgust/Teacher.cs" Line="1" Column="1" />
+      <File FileName="24.avgust/GroupMate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="24.avgust" expanded="True">
+            <Node name="24.avgust" expanded="True">
+              <Node name="GroupMate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.24.avgust FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
